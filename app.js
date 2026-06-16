@@ -1,2 +1,3 @@
 console.log("Welcome to the main application!");
-const theme = "light-mode";
+const themeLight = "light-mode";
+const themeDark = "dark-mode";
